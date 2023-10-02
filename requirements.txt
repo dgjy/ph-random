@@ -1,0 +1,4 @@
+mastodon.py==1.8.1
+gspread==5.10.0
+google-auth==2.22.0
+oauth2client
